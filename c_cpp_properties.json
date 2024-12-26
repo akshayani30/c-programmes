@@ -1,0 +1,12 @@
+{
+  "configurations": [
+    {
+      "name": "WIN32",
+      "includePath": ["C:\\MinGW\\include"],
+      "defines": ["_DEBUG", "UNICODE", "_UNICODE"],
+
+      "intelliSenseMode": "msvc-x64"
+    }
+  ],
+  "version": 4
+}

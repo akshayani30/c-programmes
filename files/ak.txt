@@ -1,0 +1,3 @@
+student name akshayani
+student rollno 510
+student cgpa 0.000000
