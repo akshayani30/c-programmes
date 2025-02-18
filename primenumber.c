@@ -11,7 +11,8 @@ int main()
     printf("prime number");
     }
     else if(n>=4) {
-    for(int i=2; i*i<=n;i++){
+    for(
+        int i=2; i*i<=n;i++){
      if(n%i==0){
      printf("not a prime num");
      }
