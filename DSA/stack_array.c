@@ -16,7 +16,7 @@ int main(){
         {
             case 1:
             {
-                push();
+                push();  // function calling
                 break;
             }
             case 2:
